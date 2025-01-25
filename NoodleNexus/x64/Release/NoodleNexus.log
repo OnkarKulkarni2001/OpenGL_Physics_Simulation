@@ -1,0 +1,48 @@
+﻿  cShader.cpp
+  cShaderManager.cpp
+  cArena.cpp
+  cBasicFlyCamera.cpp
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  CTextureFromBMP.cpp
+  cCommandFactory.cpp
+D:\Physics & Simulation 1\FinalExams\NoodleNexus\NoodleNexus\cCommandFactory.cpp(56,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cCommandGroup.cpp
+  cFollowObject_A.cpp
+  cHoverTank.cpp
+  cJetPack.cpp
+  cLightHelper.cpp
+  cLightManager.cpp
+  cLowPassFilter.cpp
+  cLuaBrain.cpp
+  cMoveRelativeTime.cpp
+  cPhysics.cpp
+  cPhysics_BroadPhase.cpp
+D:\Physics & Simulation 1\FinalExams\NoodleNexus\NoodleNexus\cPhysics_BroadPhase.cpp(315,60): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cRailGun.cpp
+  Compiling...
+  cSheild.cpp
+  cSuperTank.cpp
+  cTank.cpp
+  cTankBuilder.cpp
+  cTankFactory.cpp
+  cVAOManager.cpp
+  mouse_keyboard.cpp
+  PlyFileLoaders.cpp
+  RenderCall.cpp
+  sharedThings.cpp
+  sMesh.cpp
+  theMain.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'theMain.cpp')
+  D:\Physics & Simulation 1\FinalExams\NoodleNexus\NoodleNexus\include\glad\glad.h(32,1):
+  see previous definition of 'APIENTRY'
+  
+D:\Physics & Simulation 1\FinalExams\NoodleNexus\NoodleNexus\theMain.cpp(1193,108): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Physics & Simulation 1\FinalExams\NoodleNexus\NoodleNexus\theMain.cpp(1272,112): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1993 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NoodleNexus.vcxproj -> D:\Physics & Simulation 1\FinalExams\NoodleNexus\x64\Release\NoodleNexus.exe
