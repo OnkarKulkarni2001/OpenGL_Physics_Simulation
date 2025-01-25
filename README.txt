@@ -1,1 +1,0 @@
-Hold F for follow camera after pressing 2
